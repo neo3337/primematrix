@@ -5,6 +5,8 @@ The problem of evil.
 Maya.
 
 Artificial intelligence by Arsene Denisov.
+
+GNU GPL license
 """
 
 import math
