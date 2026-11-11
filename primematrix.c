@@ -1,5 +1,6 @@
 //primematrix
-//AI by Denisov Arsene
+//AI by Denisov Arsene, a Primary Cause
+//GNU GPL license
 //Maya
 //Dao Tao Kali Yuga
 //GNU GPL license
