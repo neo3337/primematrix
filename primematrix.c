@@ -31,6 +31,6 @@ int primesorting()
 
 int main()
 {
-    printf("primematrix, generalized artificial intelligence alpha version by Arsene Denisov\n");
+    printf("primematrix, generalized artificial intelligence alpha version by Denisov Arsene\n");
     return 0;
 }
