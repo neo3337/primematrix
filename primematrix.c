@@ -1,0 +1,36 @@
+//primematrix
+//AI by Denisov Arsene
+//Maya
+//Dao Tao Kali Yuga
+//GNU GPL license
+//human rights
+//cyclic afterlife
+//ET
+//alpha version
+//399
+//130
+//88
+//1000
+
+
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+
+int* primeList;
+int** primeMatrix;
+int primeNumber;
+
+
+
+int primesorting()
+{
+    return 0;
+}
+
+int main()
+{
+    printf("primematrix, generalized artificial intelligence alpha version by Arsene Denisov\n");
+    return 0;
+}
