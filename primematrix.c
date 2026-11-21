@@ -1,5 +1,5 @@
 //primematrix
-//AI by Denisov Arsene, an ET
+//AI by Denisov Arsene, a cybersecurity expert
 //GNU GPL license
 //Maya
 //Dao Tao Kali Yuga
